@@ -1,4 +1,4 @@
-# A tutorial on modeling Keplerian and n-body orbits in radial velocity data.
+# A tutorial on modeling the radial velocity signatures of Keplerian and n-body orbits
 
 
 Dependencies
